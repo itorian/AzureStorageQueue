@@ -1,0 +1,11 @@
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\bin\Debug\netcoreapp2.1\ConsoleApp15.deps.json
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\bin\Debug\netcoreapp2.1\ConsoleApp15.runtimeconfig.json
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\bin\Debug\netcoreapp2.1\ConsoleApp15.runtimeconfig.dev.json
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\bin\Debug\netcoreapp2.1\ConsoleApp15.dll
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\bin\Debug\netcoreapp2.1\ConsoleApp15.pdb
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\obj\Debug\netcoreapp2.1\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\obj\Debug\netcoreapp2.1\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\obj\Debug\netcoreapp2.1\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\obj\Debug\netcoreapp2.1\ConsoleApp15.AssemblyInfo.cs
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\obj\Debug\netcoreapp2.1\ConsoleApp15.dll
+C:\Users\abhimanyu\source\repos\ConsoleApp14\QueueReadMessage\obj\Debug\netcoreapp2.1\ConsoleApp15.pdb

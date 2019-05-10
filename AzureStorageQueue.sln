@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueCreateMessage", "QueueCreateMessage\QueueCreateMessage.csproj", "{9C79B197-9DCB-43BF-9851-94676FBF093D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueReadMessage", "QueueReadMessage\QueueReadMessage.csproj", "{80BCE91C-A46F-4B69-BCA0-B05A698C0386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C79B197-9DCB-43BF-9851-94676FBF093D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C79B197-9DCB-43BF-9851-94676FBF093D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C79B197-9DCB-43BF-9851-94676FBF093D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C79B197-9DCB-43BF-9851-94676FBF093D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BCE91C-A46F-4B69-BCA0-B05A698C0386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BCE91C-A46F-4B69-BCA0-B05A698C0386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BCE91C-A46F-4B69-BCA0-B05A698C0386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BCE91C-A46F-4B69-BCA0-B05A698C0386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\TransientFaultHandling.Core.5.1.1209.1\lib\NET4
+		SolutionGuid = {A6347836-4C43-49C6-A28C-DA93B2B194AF}
+	EndGlobalSection
+EndGlobal
